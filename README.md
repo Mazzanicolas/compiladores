@@ -1,4 +1,9 @@
 # Compiladores
 
 Compiladores 2017
-Integrantes: Evelyn - Nicolás - José - El Otro
+
+  Integrantes: 
+    - Evelyn 
+    - Nicolás
+    - José 
+    - 
